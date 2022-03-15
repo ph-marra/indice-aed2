@@ -1,0 +1,53 @@
+Índice:
+
+acharás 1
+alegria 3
+almas 11
+as 7, 12
+assaz 7
+bem 13
+creio 13
+das 9, 11
+dei 5
+deus 13
+dia 5
+dou 7
+doçura 4
+e 4, 12
+em 1
+fez 13
+flores 5
+graça 3
+horas 9
+já 5, 11
+luas 12
+melancolia 8
+melhor 2
+mesma 1
+mês 10
+ora 7
+os 12, 13
+outras 14
+para 14
+paz 4
+pensa 1
+poesia 2
+quando 6
+que 7, 13
+rapaz 6
+ressequidas 11
+se 5
+só 9
+sóis 12
+ti 1
+tuas 9
+têm 7
+um 5, 10
+uma 9
+valem 10
+vidas 14
+viveza 3
+
+Número total de palavras: 54.
+Numero de palavras distintas: 47.
+Tempo de construção do índice usando árvore AVL: 0s.
