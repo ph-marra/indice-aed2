@@ -1,0 +1,28 @@
+Índice:
+
+a 1, 5
+amor 3
+até 5
+gota 5
+há 1, 3
+intensamente 3
+mas 1
+mata 7
+medo 6
+nenhum 6
+não 7
+o 3
+para 2
+que 2, 4
+sem 6
+ser 2, 4
+tem 4
+vida 1
+vivida 3
+vivido 4
+é 2
+última 5
+
+Número total de palavras: 27.
+Numero de palavras distintas: 22.
+Tempo de construção do índice usando árvore AVL: 0s.

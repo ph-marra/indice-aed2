@@ -1,0 +1,26 @@
+Índice:
+
+acontecimento 5
+caminho 1, 2, 4, 7, 9, 10
+de 6
+desse 5
+do 1, 2, 4, 7, 9, 10
+esquecerei 5, 7
+fatigadas 6
+me 5, 7
+meio 1, 2, 4, 7, 9, 10
+minhas 6
+na 6
+no 1, 2, 4, 7, 9, 10
+nunca 5, 7
+pedra 1, 2, 3, 4, 8, 9, 10
+que 7
+retinas 6
+tinha 1, 2, 3, 4, 8, 9, 10
+tão 6
+uma 1, 2, 3, 4, 8, 9, 10
+vida 6
+
+Número total de palavras: 61.
+Numero de palavras distintas: 20.
+Tempo de construção do índice usando árvore AVL: 0s.

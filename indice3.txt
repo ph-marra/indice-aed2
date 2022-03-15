@@ -1,0 +1,26 @@
+Índice:
+
+amado 1, 2
+amor 3, 6
+ao 3
+correspondo 3
+devo 5
+espelho 6
+esquecer 5
+esquecido 4
+feito 6
+mais 2, 3
+pois 6
+quanto 2
+que 7
+reflexo 7
+se 1, 4
+sou 1, 4
+também 5
+tem 7
+ter 7
+é 6
+
+Número total de palavras: 25.
+Numero de palavras distintas: 20.
+Tempo de construção do índice usando árvore AVL: 0s.
